@@ -100,5 +100,4 @@ Custom PCB designed in KiCad 10, powered by a Li-Po battery.
 
 ## Author
 
-[Full name] · Engineering thesis, Silesian University of Technology, [year]
-Supervisor: [title, full name]
+Adam Śliwa · Engineering thesis
