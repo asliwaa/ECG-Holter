@@ -8262,30 +8262,6 @@
 		)
 		(uuid "ffc1f5a0-5b42-4865-afa2-b07094089b75")
 	)
-	(global_label "ECG_LO_P"
-		(shape input)
-		(at 179.07 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "09e03d3e-190d-495f-982f-f9ee036df409")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.832 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "UART_TX"
 		(shape input)
 		(at 69.85 113.03 0)
@@ -8571,30 +8547,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "ECG_LO_N"
-		(shape input)
-		(at 179.07 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3df7f63d-229a-4c18-b6fb-57090600ce78")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.7715 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -9006,6 +8958,30 @@
 			)
 		)
 	)
+	(global_label "ECG_LO_N"
+		(shape input)
+		(at 179.07 101.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9e6f768c-f4e9-44b2-ac91-54393c649e7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.7715 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "ECG_SDN"
 		(shape input)
 		(at 219.71 92.71 0)
@@ -9291,6 +9267,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "ECG_LO_P"
+		(shape input)
+		(at 179.07 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d30e90f6-6422-4a78-9c34-5d19925335e2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.832 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
