@@ -5691,7 +5691,7 @@
 		(property "Reference" "D2"
 			(at -0.1 -2.7 0)
 			(layer "F.SilkS")
-			(uuid "aa074bf0-40ff-4cf9-b459-c7a782406195")
+			(uuid "a5738142-5a3e-41be-8bfa-e03998019a78")
 			(effects
 				(font
 					(size 1 1)
@@ -5702,7 +5702,7 @@
 		(property "Value" "SS14"
 			(at 0 2.6 0)
 			(layer "F.Fab")
-			(uuid "7f345fde-c1bb-4b70-992d-d818329a2a52")
+			(uuid "335dea40-8d47-41b6-8c40-0c63abdc05f7")
 			(effects
 				(font
 					(size 1 1)
@@ -5715,7 +5715,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c74fc02-c97d-4160-a31b-65cf8b71a850")
+			(uuid "329d59d2-2e4a-4990-99ec-edc25a8a0c65")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5728,7 +5728,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "127ceaa9-cea0-475c-bf27-5c60cdf8f57a")
+			(uuid "3c4968a9-0e05-4b2e-990d-b0b4694f20c2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11488,6 +11488,62 @@
 				(thickness 0.15)
 			)
 		)
+	)
+	(segment
+		(start 176.85 109.35)
+		(end 176.85 108.85)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "VSYS")
+		(uuid "02285e22-8d8b-4c49-be9a-dc2f04b41bfe")
+	)
+	(segment
+		(start 173.85 109.35)
+		(end 173.15 108.65)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "VSYS")
+		(uuid "2eb2aaa5-5bb7-44ac-8885-d3ac9a64541f")
+	)
+	(segment
+		(start 179.3 111.8)
+		(end 176.85 109.35)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "VSYS")
+		(uuid "3e5b98ea-bc2c-4553-bd42-9b4e556c7318")
+	)
+	(segment
+		(start 176.85 109.35)
+		(end 173.85 109.35)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "VSYS")
+		(uuid "5cacf34a-f9b8-4bfc-9615-982cd7c4e0e7")
+	)
+	(segment
+		(start 173.15 108.65)
+		(end 173.15 103.3)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "VSYS")
+		(uuid "74078931-7f40-4d59-9284-91dce09bc8d5")
+	)
+	(segment
+		(start 176.85 108.85)
+		(end 176 108)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "VSYS")
+		(uuid "d6e20fa9-d41d-45c8-8ea6-cb9835f06eb5")
+	)
+	(segment
+		(start 180.9025 111.8)
+		(end 179.3 111.8)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "VSYS")
+		(uuid "e052e821-a9d9-4946-946d-12f702ab14ab")
 	)
 	(segment
 		(start 178 108.302943)
