@@ -57,7 +57,7 @@
       "drc_exclusions": [
         [
           "copper_edge_clearance|115178382|55174343|bcb5994e-318f-4a86-889c-3510ac9f774e|76e053d0-65ab-4994-b29d-744c98bbdb5e",
-          "przybliżenie łuku narożnika, 3 µm"
+          "przybliżenie łuku narożnika"
         ],
         [
           "lib_footprint_mismatch|150000000|58850000|e9976d0d-0c7b-4512-ae8a-105bf962f0b6|00000000-0000-0000-0000-000000000000",
@@ -72,7 +72,7 @@
           ""
         ],
         [
-          "unconnected_items|147600000|136620000|F.Cu|4|659d22ed-4e2f-4145-a752-85fb62733f11|48dcec31-0b80-48b0-9919-9b4368c84b31",
+          "unconnected_items|147600000|136620000|F.Cu|4|659d22ed-4e2f-4145-a752-85fb62733f11|dd83ebd4-6d2e-4952-ae3e-759b3f811cb2",
           ""
         ]
       ],
