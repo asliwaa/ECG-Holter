@@ -70,10 +70,6 @@
         [
           "silk_edge_clearance|159200000|54000000|bcb5994e-318f-4a86-889c-3510ac9f774e|ce6bea6b-708e-4b31-b573-5ecaa39706bd",
           ""
-        ],
-        [
-          "unconnected_items|147600000|136620000|F.Cu|4|659d22ed-4e2f-4145-a752-85fb62733f11|dd83ebd4-6d2e-4952-ae3e-759b3f811cb2",
-          ""
         ]
       ],
       "meta": {
